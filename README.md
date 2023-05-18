@@ -6,7 +6,7 @@ Before using the script, ensure that you have the following understand how Whats
 https://developers.facebook.com/docs/whatsapp/cloud-api/
 
 ## Usage
-Modify the Send-WhatsAppMessage.ps1 script according to your requirements. Provide the necessary phone numbers, message content, and any additional parameters as per the script's documentation.
+Modify the SendWhatsApp.ps1 script according to your requirements. Provide the necessary phone numbers, message content, and any additional parameters as per the script's documentation.
 
 ### Contributing
 Contributions, bug reports, and feature requests are welcome! If you encounter any issues or have suggestions for improvements, please feel free to create an issue or submit a pull request.
