@@ -1,4 +1,4 @@
-﻿####################################### 
+####################################### 
 ##############  Header   ##############
 #######################################
 # Use a proper Token as BearerID. Check your Whatsapp App 'First Steps' in Meta for developers.
