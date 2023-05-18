@@ -2,7 +2,7 @@
 This repository provides a PowerShell script for sending WhatsApp messages programmatically from PowerShell through Whatsapp Business Cloud API. 
 
 ## Prerequisites - Whatsapp Business Cloud API
-Before using the script, ensure that you have the following understand how Whatsapp Business Cloud API works, and you will need to setup WhatsApp Business Account. Chack the link below.
+Before using the script, ensure that you understand how Whatsapp Business Cloud API works. Also you will need to setup WhatsApp Business Account, and create an app. Check the link below.
 https://developers.facebook.com/docs/whatsapp/cloud-api/
 
 ## Usage
